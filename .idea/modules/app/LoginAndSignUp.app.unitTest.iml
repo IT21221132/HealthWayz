@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:unitTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/9e66d0c482e5e9f241856688c474f22f/transformed/viewbinding-7.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/3fd4bee8ff97983c036e98b2dfc0e2f5/transformed/firebase-auth-ktx-22.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/b1d5043e60f5d84a2fa63045928478df/transformed/firebase-auth-22.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/0d7081cd671a55482a2a9726523061d5/transformed/recaptcha-18.1.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/2633b0fff54baab20d68fc243fb3dcdc/transformed/firebase-common-ktx-20.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-play-services/1.6.4/e8e5e0dbe20eadc35a0eb112bcc1b2089768c906/kotlinx-coroutines-play-services-1.6.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.4/2c997cd1c0ef33f3e751d3831929aeff1390cb30/kotlinx-coroutines-core-jvm-1.6.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.6.4/f955fc8b2ad196e2f4429598440e15f7492eeb2b/kotlinx-coroutines-android-1.6.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.21/eeb4d60d75e9ea9c11200d52974e522793b14fba/kotlin-stdlib-jdk8-1.6.21.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/2e662d30a3ef7e545d1658b7f565cd12/transformed/core-ktx-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/336b24264792c2c6ae6203ea7777e4ee/transformed/material-1.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/b611d6efe7d259b478139a3a8da8886c/transformed/appcompat-1.4.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/d85130302913dd8f01db1cc8b83741b8/transformed/viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/ce14e040c33447754cf32bb9cce04829/transformed/play-services-auth-api-phone-17.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/51061d2dd7b8fbb04667add51f651386/transformed/integrity-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/e5dafc62f991861c8a0bb572b0e63dff/transformed/firebase-appcheck-interop-17.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/13b62e388e055b88746c23b015cf424d/transformed/firebase-auth-interop-20.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/98289cabf6c73b9374a0d9d8aeabf539/transformed/firebase-common-20.3.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/bc28ed467c58807fce9fd7fcdd88cbe5/transformed/play-services-base-18.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/a6008d997a64ba058c120f872208dd10/transformed/play-services-tasks-18.0.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/66c3d0755e4fb5ccb3ae2817ab8af326/transformed/play-services-basement-18.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/272218b01ec2412b0456866fdfadfdaa/transformed/fragment-1.3.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/007703fdea70bbbd2c708977678fd3f4/transformed/activity-1.2.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/a045de7caf8195999fb49c238c9cd664/transformed/appcompat-resources-1.4.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/6b1c70fe0854c0a253a81d37e1f16185/transformed/drawerlayout-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/336eaac4fbb1a4e4a10d4a007571acee/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/53adb0255659f27f90f121537cbd5950/transformed/dynamicanimation-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/412b46b4771f7d2f2afa7d5dea51dee4/transformed/recyclerview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/94a9e7f88a3e56db7a19dbc33a231993/transformed/transition-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/2a411b32f94d7780a5803615afa04b6e/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/f09a727136026f7e0f6f9fd98f6d7ea2/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/c1ea132f61fa4b3d56f699c939a23985/transformed/browser-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/91786acaa616ee67047164ff67cfe08a/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/3205f8f64abf883568f495407d320c12/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/f4af216d370411aed8c7790084fc1573/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/62c4f0fc02605468df7af8e19d4ac172/transformed/customview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/91171aa2db21c67b0587b4408c00882a/transformed/core-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/25a620b34beba5a1c18df7991306529c/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/78bc4408af66d70112641bd221000214/transformed/lifecycle-viewmodel-savedstate-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/6532ffe3119328f698b3d29a6be2f628/transformed/savedstate-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/c85e1031c13bd0fa8ecf0672c6cd71ee/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/598fc81be175c379d615b258d537c3ca/transformed/lifecycle-runtime-2.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/d04e8ebc944988d504b3601f7fc46b0b/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/b11e0bc31b20abe1e5d14047088d820d/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/9df4cadb450c7bf68f4e8b2842f55fc4/transformed/firebase-components-17.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/22cbeec84be474f6402619bbde5d80f2/transformed/lifecycle-viewmodel-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/eb1384f8bee503ead39f9cb5d300af47/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/bf0713e2df705586e6e74c12e4f4aa42/transformed/lifecycle-livedata-core-2.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/b8771489f600a3e57bbd0df15101c8d7/transformed/core-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/50b7fb98350d5f42a4e49704b03278542293ba48/concurrent-futures-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/a68e737f80e72b2016f76459ffc0231b/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/a53f6e42e8d7dc4f84ecb412412c372f/transformed/documentfile-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/b2654b307ae696066102d3951b6e6bb1/transformed/print-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/androidx.annotation/annotation/1.5.0/857678d6b4ca7b28571ef7935c668bdb57e15027/annotation-1.5.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.21/568c1b78a8e17a4f35b31f0a74e2916095ed74c2/kotlin-stdlib-jdk7-1.6.21.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.10/d2abf9e77736acc4450dc4a3f707fa2c10f5099d/kotlin-stdlib-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/81d154639ee4db313835829769d94c4a/transformed/annotation-experimental-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c949a840a6acbc5268d088e47b04177bf90b3cad/listenablefuture-1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/66dd016ed4ccff6239e3c6a38e92b18a/transformed/constraintlayout-2.1.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/com.google.firebase/firebase-annotations/16.2.0/ba0806703ca285d03fa9c888b5868f101134a501/firebase-annotations-16.2.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.9.0/74fe3b8b4f3fc84dc940d0ca4c4b270dbc902764/error_prone_annotations-2.9.0.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/android.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugUnitTest" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.6" />
+            <stringArg name="languageVersion" arg="1.6" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/app_classes/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths" />
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/test/java" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/testDebug" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="LoginAndSignUp.app.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.concurrent:concurrent-futures:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-annotations:16.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.errorprone:error_prone_annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth-ktx:22.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth:22.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.recaptcha:recaptcha:18.1.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common-ktx:20.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.4.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-api-phone:17.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.play:integrity:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-appcheck-interop:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth-interop:20.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common:20.3.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:18.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-tasks:18.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:18.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.3.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.2.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.4.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.browser:browser:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-components:17.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.1.3@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="LoginAndSignUp.app.main" />
+</module>

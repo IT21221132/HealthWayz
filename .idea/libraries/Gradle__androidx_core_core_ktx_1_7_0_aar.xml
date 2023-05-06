@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-ktx:1.7.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/4e4a16efc11128f3d89a0355727a7e80/transformed/core-ktx-1.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/4e4a16efc11128f3d89a0355727a7e80/transformed/core-ktx-1.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/4e4a16efc11128f3d89a0355727a7e80/transformed/core-ktx-1.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/androidx.core/core-ktx/1.7.0/8ab417a25ecc45ec8996edeef98f1b77b4690dd8/core-ktx-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587247544940",
+    "project_id": "hwayz-71ea6",
+    "storage_bucket": "hwayz-71ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587247544940:android:aa965fecd5f2f612c50649",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587247544940-d4ece2misugdqutpf4hd09qik1hneakf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw24Q4UglCi4APHDnNbRFvr7goKBazvwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587247544940-d4ece2misugdqutpf4hd09qik1hneakf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

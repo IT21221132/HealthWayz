@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:22.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/df71428f60194806d6569968ea36caf8/transformed/firebase-auth-22.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/df71428f60194806d6569968ea36caf8/transformed/firebase-auth-22.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/22.0.0/cc1cdd61103f73a811e777d3b12b56236bb46e76/firebase-auth-22.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

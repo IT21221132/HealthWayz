@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:integrity:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/2062a11ef41e8ab560a1c7421de4fb17/transformed/integrity-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Login-and-Registration-in-Android-using-Firebase-in-Kotlin-main/caches/transforms-3/2062a11ef41e8ab560a1c7421de4fb17/transformed/integrity-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
